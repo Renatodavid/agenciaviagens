@@ -1,0 +1,30 @@
+
+
+#footerdestino {
+    color: var(--main-color);
+    background-color: var(--tertiary-color);
+    display: flex;
+    justify-content: space-evenly;
+    padding: 3rem 3rem 1rem;
+}
+
+#footerdestino a {
+    color: var(--main-color);
+    text-decoration: none;
+}
+
+.networks {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    margin: 60px !important;
+
+}
+
+#logoRodape {
+    width: 42%;
+    align-items: center;
+    margin: 20%;
+
+}
